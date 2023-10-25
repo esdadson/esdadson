@@ -1,4 +1,4 @@
-#About me
+#About me#
 Undergraduate Mathematics and Statistics student at North Carolina State University.
 Hometown is Tryon, NC.
 Hopeful to use advanced analytics to create social good and motivate change.
